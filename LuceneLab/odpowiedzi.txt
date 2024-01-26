@@ -1,0 +1,5 @@
+--9
+EnglishAnalyzer ma listę StopWords i nie wyszukuje po nich. Dodatkowo potrafi znaleźć tekst z odmienionym słowem
+
+--15
+Indeksy zostaną powielone
